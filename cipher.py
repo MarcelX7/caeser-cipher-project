@@ -13,7 +13,7 @@ def encrypt(plain_text, shift_amount):   #that takes the 'text' and 'shift' as i
       cipher_text += new_letter
       print(f"the encode text is {cipher_text}")
 
-      #👇👇👇👇👇👇 This code benefit the negative variant of our ceasar cipher proram
+      #👇👇👇👇👇👇 This code benefit the negative variant of our ceasar cipher program
 
 def decrypt(cipher_text, shift_amont):
     plain_text = ""
